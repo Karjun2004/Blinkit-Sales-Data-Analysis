@@ -15,7 +15,7 @@ The analysis was performed using *[mention the tools you used, e.g., Excel, Powe
 
 Below is a snapshot of the final dashboard, which visually represents the key findings of the analysis.
 
-![Blinkit Sales Dashboard](dashboard_picture.png)
+![Blinkit Sales Dashboard](dashboard_Image.png)
 
 ## Dataset
 
